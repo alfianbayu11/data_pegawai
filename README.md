@@ -1,4 +1,4 @@
-﻿### [Aplikasi Perekaman Data Pegawai](http://bookstore-adesug.herokuapp.com/) klik
+﻿### [Aplikasi Perekaman Data Pegawai](http://by-pegawai.herokuapp.com/) klik
 ### [Diagram dan penjelasan](https://drive.google.com/file/d/1Ki8Jebj_R_e2BtLoRLffM8wntqBKQ0Xq/view?usp=sharing) klik
 #### By
 - Nama  : Alfian Bayu Samudra
